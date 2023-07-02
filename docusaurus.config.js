@@ -18,8 +18,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'p-type', // Usually your GitHub org/user name.
-  projectName: 'p-type', // Usually your repo name.
+  organizationName: 'p-type-dev', // Usually your GitHub org/user name.
+  projectName: 'p-type.dev', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
